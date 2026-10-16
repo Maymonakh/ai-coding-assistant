@@ -1,0 +1,9 @@
+langchain
+langchain-openrouter
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+datasets
+streamlit
+python-dotenv
